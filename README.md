@@ -1,8 +1,5 @@
 # Agentic AI–Driven Contract Intelligence Platform
 
-
-# Agentic AI–Driven Contract Intelligence Platform
-
 An AI-focused learning and portfolio project for contract document processing, risk flagging, evidence traceability, policy retrieval, agent orchestration, and deployment.
 
 > **Current status: Phase 1 MVP.** The current implementation extracts text from text-based PDF contracts and applies a small, transparent rule-based engine to flag selected clauses for review. LLM-powered analysis, multi-agent orchestration, RAG, database persistence, authentication, and production security controls are planned enhancements and should not be considered implemented unless present in the code.
