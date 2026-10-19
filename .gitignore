@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.streamlit/secrets.toml
+*.pyc
+.DS_Store
+
+# Python
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Test and cache files
+.pytest_cache/
+.coverage

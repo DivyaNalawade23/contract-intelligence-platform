@@ -1,0 +1,24 @@
+SAMPLE VENDOR SERVICES AGREEMENT (FICTIONAL TRAINING TEXT)
+
+This fictional sample is for software testing and is not a real legal contract.
+
+1. Term and Renewal
+This agreement will automatically renew for one-year renewal terms unless either party
+provides written notice before the renewal date.
+
+2. Liability
+The supplier accepts unlimited liability for all claims arising under this agreement.
+
+3. Data Security
+The parties will follow applicable security practices. The contract should be reviewed to
+confirm whether it adequately specifies what happens after a data breach.
+
+4. Confidentiality
+Each party will protect confidential information received from the other party.
+
+5. Indemnification
+The supplier will indemnify and hold harmless the customer for specified third-party claims.
+
+6. Termination
+Either party may terminate this agreement by providing written notice as described in the
+final signed agreement.
